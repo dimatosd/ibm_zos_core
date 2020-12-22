@@ -1,4 +1,4 @@
-IBM z/OS core collection
+IBM z/OS core collectioz
 ========================
 
 The **IBM z/OS core collection**, also represented as
